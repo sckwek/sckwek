@@ -1,6 +1,5 @@
 ### Hi, I’m [Shi Chin][LinkedIn] 👋 
 ### Quant Finance Student
-
 - 🎓 Pursuing Masters of Quantitative Finance at Singapore Management University - graduating 2025
 - 🏛️ Previously worked in market and credit risk management departments 
 - 🌟 On a mission to create dazzling outputs by blending my love for markets and my coding superpowers
